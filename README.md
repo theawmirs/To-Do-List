@@ -80,7 +80,7 @@ Or you can run a local server if you prefer.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source
 
 ## Acknowledgements
 
