@@ -1,4 +1,3 @@
-````markdown
 # To-Do List Application
 
 A simple yet feature-rich To-Do List web application that allows users to manage tasks, categorize them, and track completion. This application utilizes local storage to save tasks, ensuring persistence even after the page is refreshed.
@@ -31,7 +30,6 @@ To get started with this project, follow these steps:
 git clone https://github.com/theawmirs/to-do-list-app.git
 cd to-do-list-app
 ```
-````
 
 ### 2. Open the Project in Your Browser
 
