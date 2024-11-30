@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/theawmirs/to-do-list-app.git
+git clone https://github.com/theawmirs/To-Do-List.git
 cd to-do-list-app
 ```
 
