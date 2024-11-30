@@ -58,7 +58,7 @@ Or you can run a local server if you prefer.
 ## Folder Structure
 
 ```
-/to-do-list-app
+/To-Do-List
 │
 ├── css
 │   ├── normalize.css      # Normalize CSS for consistent styling across browsers
