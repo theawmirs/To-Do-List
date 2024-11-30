@@ -25,9 +25,8 @@ A simple yet feature-rich To-Do List web application that allows users to manage
 Here are some screenshots of the To-Do List Application:
 
 ![Home Page](screenshots/image1.png)
-*Home Page with task input and categories.*
 
-![Completed tasks Page](screenshots/image1.png)
+![Completed tasks Page](screenshots/image2.png)
 
 
 ## Getting Started
