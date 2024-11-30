@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 ```bash
 git clone https://github.com/theawmirs/To-Do-List.git
-cd to-do-list-app
+cd To-Do-List
 ```
 
 ### 2. Open the Project in Your Browser
