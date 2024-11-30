@@ -20,6 +20,16 @@ A simple yet feature-rich To-Do List web application that allows users to manage
 - **JavaScript**: For functionality such as adding, editing, completing, and deleting tasks.
 - **LocalStorage**: To persist task data even after page reloads.
 
+## Screenshots
+
+Here are some screenshots of the To-Do List Application:
+
+![Home Page](screenshots/image1.png)
+*Home Page with task input and categories.*
+
+![Completed tasks Page](screenshots/image1.png)
+
+
 ## Getting Started
 
 To get started with this project, follow these steps:
